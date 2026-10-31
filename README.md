@@ -1,0 +1,2 @@
+# classisland-eastduty
+通过把每个人的名字变成科目的抽象方法来在ClassIsland里添加值日表。
